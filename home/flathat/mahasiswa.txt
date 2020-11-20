@@ -1,0 +1,3 @@
+ID : 001 Nama : Miruno Gender : laki
+ID : 002 Nama : Saburo Gender : Angee
+ID : 003 Nama : Uchiha Bayu Gender : bijuu
