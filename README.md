@@ -22,4 +22,10 @@ Untuk program java dengan Intellij IDE kita tidak perlu repot-repot buka termina
 Dan di Intellij juga ada struktur yang sedikit berbeda dengan program java sebelumnya dimana kita perlu menginisiasi project structur dengan libraries.  
 Untuk libraries ada di folder LIB.  
 
-### Folder
+### Folder Day09 dan JavaIntellij
+Kedua folder ini merupakan sebuah project java. Day09 dibuat project terlebih dahulu dan di dalamnya juga ada project dengan nama JavaJSON.  
+Ini terjadi karena saya masih baru pertama kali dan belum familiar dengan Intellij IDE dan dengan sistem Project dan Package.  
+Di JavaIntellij merupakan sebuah project baru yang dibuat dan kemungkinan untuk kedepannya atau Day** selanjutnya akan dibuat dalam package saja.  
+Jadi nanti semua tugas ada dalam satu project JavaIntellij dan Day's tugasnya di pisahkan per package saja.
+
+Note : Tapi masih belum pasti juga, ada kemungkinan saya buat folder Day nya per project juga.
