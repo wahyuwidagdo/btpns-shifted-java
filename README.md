@@ -38,3 +38,10 @@ Merupakan folder latihan (bukan tugas) selama pelatihan berlangsung.
 
 ### Folder home
 Merupakan folder output program ketika latihan yang berupa file txt.
+
+Author Love's Note :  
+Oke mungkin sekian yang dapat saya jelaskan, I made it well documented as possible. Mungkin ini salah satu yang dapat saya lakukan.  
+Mohon ma'af jika tidak semua program dapat dijalankan atau good logic program, karena juga masih dalam tahap belajar. Butuh waktu yang tidak sedikit dan effort lebih untuk memahaminya.  
+Mohon ma'af atas segala kekurangannya, dan terima kasih~~~  
+
+It's well documented and made with Love by Wahyu F. Widagdo [Edo].
