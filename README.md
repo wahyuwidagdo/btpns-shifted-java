@@ -29,3 +29,12 @@ Di JavaIntellij merupakan sebuah project baru yang dibuat dan kemungkinan untuk 
 Jadi nanti semua tugas ada dalam satu project JavaIntellij dan Day's tugasnya di pisahkan per package saja.
 
 Note : Tapi masih belum pasti juga, ada kemungkinan saya buat folder Day nya per project juga.
+
+### Folder LIB
+Merupakan folder yang berisi library-library yang dibutuhkan ketika menjalankan program java di Intellij.
+
+### Folder Latihan
+Merupakan folder latihan (bukan tugas) selama pelatihan berlangsung.
+
+### Folder home
+Merupakan folder output program ketika latihan yang berupa file txt.
